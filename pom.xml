@@ -79,7 +79,7 @@
 					<docker>
 						<publishRegistry>
 							<username>kgromov</username>
-							<password>Xthyjvjhtw1Jltccf</password>
+							<password></password>
 							<url>https://hub.docker.com</url>
 						</publishRegistry>
 					</docker>
